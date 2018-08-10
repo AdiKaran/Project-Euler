@@ -1,2 +1,1 @@
-Solutions to problems from project euler
-
+Solutions to problems from Project Euler  (https://projecteuler.net/)
